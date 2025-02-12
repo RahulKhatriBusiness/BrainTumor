@@ -1,0 +1,14 @@
+Brain-Tumor-Detection/
+├── app/ (Flutter app code)
+│   ├── assets/
+│   ├── lib/
+│   ├── pubspec.yaml
+├── model/ (AI model training code)
+│   ├── preprocess.py
+│   ├── train.py
+│   ├── model.h5
+├── docs/ (Documentation files)
+│   ├── setup_instructions.md
+│   ├── model_report.md
+│   ├── system_architecture.png
+├── README.md
